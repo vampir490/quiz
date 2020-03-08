@@ -1,0 +1,65 @@
+<?xml version="2.0" encoding="utf-8"?>
+<quiz>
+  <question seconds="30" points="3">
+    <text>How many meters in 1 kilometer?</text>
+    <variants>
+      <variant right="true">1000</variant>
+      <variant>2048</variant>
+      <variant>1024</variant>
+      <variant>10000</variant>
+    </variants>
+  </question>
+  <question seconds="20" points="1">
+    <text>The capital of Ukraine?</text>
+    <variants>
+      <variant right="true">Kiev</variant>
+      <variant>Minsk</variant>
+      <variant>Ufa</variant>
+      <variant>Moscow</variant>
+    </variants>
+  </question>
+  <question seconds="150" points="6">
+    <text>Is resistance directly proportional to voltage?</text>
+    <variants>
+      <variant right="true">yes</variant>
+      <variant>no</variant>
+      <variant>who cares</variant>
+    </variants>
+  </question>
+  <question seconds="50" points="3">
+    <text>The year of the abolition of slavery in Russia?</text>
+    <variants>
+      <variant right="true">1861</variant>
+      <variant>2020</variant>
+      <variant>1812</variant>
+      <variant>1562</variant>
+    </variants>
+  </question>
+  <question seconds="20" points="9">
+    <text>The district of New York with the buggest number of Russian habitats?</text>
+    <variants>
+      <variant right="true">Brooklyn</variant>
+      <variant>Bronx</variant>
+      <variant>Queens</variant>
+      <variant>Manhattan</variant>
+    </variants>
+  </question>
+  <question seconds="25" points="4">
+    <text>700 - 300</text>
+    <variants>
+      <variant right="true">400</variant>
+      <variant>500</variant>
+      <variant>70</variant>
+      <variant>40</variant>
+    </variants>
+  </question>
+  <question seconds="25" points="4">
+    <text>The year of the beginning of the World war the First?</text>
+    <variants>
+      <variant right="true">1914</variant>
+      <variant>1941</variant>
+      <variant>1939</variant>
+      <variant>1918</variant>
+    </variants>
+  </question>
+</quiz>
