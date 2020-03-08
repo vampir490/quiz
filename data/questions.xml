@@ -36,7 +36,7 @@
     </variants>
   </question>
   <question seconds="20" points="9">
-    <text>The district of New York with the buggest number of Russian habitats?</text>
+    <text>The district of New York with the biggest number of Russian habitats?</text>
     <variants>
       <variant right="true">Brooklyn</variant>
       <variant>Bronx</variant>
